@@ -5,8 +5,8 @@
 
 #KEYS:FamilyName	FontName	FullName	Weight	Coords	IsBold
 
-Some Devanagari	SomeDevanagari-Light	Some Devanagari Light	Light	(0)	0
-Some Devanagari	SomeDevanagari-Regular	Some Devanagari	Regular	(210)	0
-Some Devanagari	SomeDevanagari-Medium	Some Devanagari Medium	Medium	(440)	0
-Some Devanagari	SomeDevanagari-SemiBold	Some Devanagari SemiBold	SemiBold	(700)	0
-Some Devanagari	SomeDevanagari-Bold	Some Devanagari Bold	Bold	(1000)	0
+Teko	Teko-Light	Teko Light	Light	(0)	0
+Teko	Teko-Regular	Teko	Regular	(210)	0
+Teko	Teko-Medium	Teko Medium	Medium	(440)	0
+Teko	Teko-SemiBold	Teko SemiBold	SemiBold	(700)	0
+Teko	Teko-Bold	Teko Bold	Bold	(1000)	0

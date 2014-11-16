@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-FAMILY_NAME = 'SomeDevanagari'
+FAMILY_NAME = 'Teko'
 
 STYLE_NAMES = [
     'Light',
