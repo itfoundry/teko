@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Teko-Medium.GlyphOrder.ttx"/>
+  <head src="Teko-Medium._h_e_a_d.ttx"/>
+  <hhea src="Teko-Medium._h_h_e_a.ttx"/>
+  <maxp src="Teko-Medium._m_a_x_p.ttx"/>
+  <OS_2 src="Teko-Medium.O_S_2f_2.ttx"/>
+  <name src="Teko-Medium._n_a_m_e.ttx"/>
+  <cmap src="Teko-Medium._c_m_a_p.ttx"/>
+  <post src="Teko-Medium._p_o_s_t.ttx"/>
+  <CFF src="Teko-Medium.C_F_F_.ttx"/>
+  <GDEF src="Teko-Medium.G_D_E_F_.ttx"/>
+  <GPOS src="Teko-Medium.G_P_O_S_.ttx"/>
+  <GSUB src="Teko-Medium.G_S_U_B_.ttx"/>
+  <hmtx src="Teko-Medium._h_m_t_x.ttx"/>
+</ttFont>

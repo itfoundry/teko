@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Teko-SemiBold.GlyphOrder.ttx"/>
+  <head src="Teko-SemiBold._h_e_a_d.ttx"/>
+  <hhea src="Teko-SemiBold._h_h_e_a.ttx"/>
+  <maxp src="Teko-SemiBold._m_a_x_p.ttx"/>
+  <OS_2 src="Teko-SemiBold.O_S_2f_2.ttx"/>
+  <name src="Teko-SemiBold._n_a_m_e.ttx"/>
+  <cmap src="Teko-SemiBold._c_m_a_p.ttx"/>
+  <post src="Teko-SemiBold._p_o_s_t.ttx"/>
+  <CFF src="Teko-SemiBold.C_F_F_.ttx"/>
+  <GDEF src="Teko-SemiBold.G_D_E_F_.ttx"/>
+  <GPOS src="Teko-SemiBold.G_P_O_S_.ttx"/>
+  <GSUB src="Teko-SemiBold.G_S_U_B_.ttx"/>
+  <hmtx src="Teko-SemiBold._h_m_t_x.ttx"/>
+</ttFont>
