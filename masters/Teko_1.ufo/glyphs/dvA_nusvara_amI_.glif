@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAnusvara.amI" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="250" y="658" type="move" name="_abvm.i"/>
+    </contour>
+    <contour>
+      <point x="30" y="787" type="line"/>
+      <point x="30" y="658" type="line"/>
+      <point x="152" y="658" type="line"/>
+      <point x="152" y="787" type="line"/>
+    </contour>
+  </outline>
+</glyph>
