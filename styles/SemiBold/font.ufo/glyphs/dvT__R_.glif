@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_R" format="1">
+  <advance width="367"/>
+  <outline>
+    <contour>
+      <point x="-20" y="636" type="line"/>
+      <point x="-20" y="539" type="line"/>
+      <point x="387" y="539" type="line"/>
+      <point x="387" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="472" type="curve"/>
+      <point x="12" y="472" type="line"/>
+      <point x="12" y="375" type="line"/>
+      <point x="34" y="375" type="line" smooth="yes"/>
+      <point x="71" y="375"/>
+      <point x="86" y="363"/>
+      <point x="109" y="325" type="curve" smooth="yes"/>
+      <point x="175" y="216" type="line"/>
+      <point x="192" y="282" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="326" y="240" type="line"/>
+      <point x="223" y="405" type="line" smooth="yes"/>
+      <point x="192" y="454"/>
+      <point x="164" y="472"/>
+    </contour>
+    <contour>
+      <point x="387" y="276" type="line"/>
+      <point x="233" y="276" type="line"/>
+      <point x="233" y="188" type="line"/>
+      <point x="387" y="188" type="line"/>
+    </contour>
+  </outline>
+</glyph>

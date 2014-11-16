@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmO_Reph_Anusvara" format="1">
+  <advance width="195"/>
+  <outline>
+    <contour>
+      <point x="165" y="740" type="line"/>
+      <point x="165" y="666" type="line"/>
+      <point x="236" y="666" type="line"/>
+      <point x="236" y="740" type="line"/>
+    </contour>
+    <component base="dvmAA"/>
+    <component base="dvmE_Reph" xOffset="197"/>
+  </outline>
+</glyph>

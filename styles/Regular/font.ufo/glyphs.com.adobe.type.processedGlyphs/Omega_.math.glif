@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Omega.math">
+  <advance width="404" />
+  <unicode hex="2126" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="327" y="73" />
+      <point x="343" y="83" />
+      <point x="351" y="101" />
+      <point type="curve" x="351" y="131" />
+      <point type="line" x="351" y="538" />
+      <point x="351" y="595" />
+      <point x="322" y="626" />
+      <point type="curve" x="258" y="626" />
+      <point type="line" x="146" y="626" />
+      <point x="82" y="626" />
+      <point x="53" y="595" />
+      <point type="curve" x="53" y="538" />
+      <point type="line" x="53" y="131" />
+      <point x="53" y="101" />
+      <point x="61" y="83" />
+      <point type="curve" x="77" y="73" />
+      <point type="line" x="11" y="73" />
+      <point type="line" x="11" y="0" />
+      <point type="line" x="183" y="0" />
+      <point type="line" x="183" y="73" />
+      <point type="line" x="171" y="73" />
+      <point x="148" y="73" />
+      <point x="143" y="80" />
+      <point type="curve" x="143" y="104" />
+      <point type="line" x="143" y="524" />
+      <point x="143" y="548" />
+      <point x="149" y="553" />
+      <point type="curve" x="173" y="553" />
+      <point type="line" x="231" y="553" />
+      <point x="255" y="553" />
+      <point x="261" y="548" />
+      <point type="curve" x="261" y="524" />
+      <point type="line" x="261" y="104" />
+      <point x="261" y="80" />
+      <point x="256" y="73" />
+      <point type="curve" x="233" y="73" />
+      <point type="line" x="221" y="73" />
+      <point type="line" x="221" y="0" />
+      <point type="line" x="393" y="0" />
+      <point type="line" x="393" y="73" />
+    </contour>
+  </outline>
+</glyph>

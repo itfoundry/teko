@@ -1,0 +1,34 @@
+# Created: Mon Nov 17 00:03:59 2014
+# PS Name: Teko-Bold
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.e_n44_652 = [dvmE dvmE_Reph dvmE_Reph_Anusvara];
+@mGC_blwm.vr_n40_n30 = [dvmvR dvmvRR];
+@mGC_topright_n44_642 = [dvmE dvmE_Reph dvmE_Reph_Anusvara];
+
+markClass @mGC_abvm.e_n44_652 <anchor -44 652> @MC_abvm.e;
+markClass @mGC_blwm.vr_n40_n30 <anchor -40 -30> @MC_blwm.vr;
+markClass @mGC_topright_n44_642 <anchor -44 642> @MC_topright;
+markClass dvAnusvara <anchor -59 642> @MC_abvm.bindu;
+markClass dvAnusvara.amI <anchor 250 658> @MC_abvm.i;
+markClass dvCandrabindu <anchor -122 642> @MC_topmiddle;
+markClass dvCandrabindu <anchor -42 642> @MC_abvm.bindu;
+markClass dvReph <anchor -37 642> @MC_abvm.bindu;
+markClass dvReph <anchor -37 642> @MC_topright;
+markClass dvReph.amI <anchor 250 552> @MC_abvm.i;
+markClass dvReph_Anusvara <anchor -40 642> @MC_abvm.bindu;
+markClass dvReph_Anusvara <anchor -40 642> @MC_topright;
+markClass dvReph_Anusvara.amI <anchor 250 632> @MC_abvm.i;
+markClass dvVirama <anchor -40 -20> @MC_blwm.virama;
+markClass dvmAI <anchor -45 642> @MC_topright;
+markClass dvmAI <anchor -47 652> @MC_abvm.e;
+markClass dvmAI_Reph <anchor -43 642> @MC_topright;
+markClass dvmAI_Reph <anchor -43 652> @MC_abvm.e;
+markClass dvmAI_Reph_Anusvara <anchor -41 642> @MC_topright;
+markClass dvmAI_Reph_Anusvara <anchor -41 652> @MC_abvm.e;
+markClass dvmEcandra <anchor -127 642> @MC_topmiddle;
+markClass dvmEcandra <anchor -47 642> @MC_abvm.bindu;
+markClass dvmU <anchor -210 0> @MC_blwm.u;
+markClass dvmUU <anchor -32 -10> @MC_blwm.uu;
+

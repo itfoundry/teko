@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvReph_Anusvara.amI" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="210" y="614" type="move" name="_abvm.i"/>
+    </contour>
+    <component base="dvReph_Anusvara" xOffset="49"/>
+  </outline>
+</glyph>

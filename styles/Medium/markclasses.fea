@@ -1,0 +1,35 @@
+# Created: Mon Nov 17 00:03:27 2014
+# PS Name: Teko-Medium
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.e_n51_641 = [dvmE_Reph dvmAI_Reph];
+@mGC_abvm.e_n52_641 = [dvmE dvmE_Reph_Anusvara];
+@mGC_blwm.vr_n48_n30 = [dvmvR dvmvRR];
+@mGC_topright_n49_631 = [dvReph_Anusvara dvmAI_Reph_Anusvara];
+@mGC_topright_n51_631 = [dvmE_Reph dvmAI_Reph];
+@mGC_topright_n52_631 = [dvmE dvmAI dvmE_Reph_Anusvara];
+
+markClass @mGC_abvm.e_n51_641 <anchor -51 641> @MC_abvm.e;
+markClass @mGC_abvm.e_n52_641 <anchor -52 641> @MC_abvm.e;
+markClass @mGC_blwm.vr_n48_n30 <anchor -48 -30> @MC_blwm.vr;
+markClass @mGC_topright_n49_631 <anchor -49 631> @MC_topright;
+markClass @mGC_topright_n51_631 <anchor -51 631> @MC_topright;
+markClass @mGC_topright_n52_631 <anchor -52 631> @MC_topright;
+markClass dvAnusvara <anchor -58 631> @MC_abvm.bindu;
+markClass dvAnusvara.amI <anchor 210 657> @MC_abvm.i;
+markClass dvCandrabindu <anchor -104 631> @MC_topmiddle;
+markClass dvCandrabindu <anchor -50 631> @MC_abvm.bindu;
+markClass dvReph <anchor -47 631> @MC_abvm.bindu;
+markClass dvReph <anchor -47 631> @MC_topright;
+markClass dvReph.amI <anchor 210 552> @MC_abvm.i;
+markClass dvReph_Anusvara <anchor -49 631> @MC_abvm.bindu;
+markClass dvReph_Anusvara.amI <anchor 210 614> @MC_abvm.i;
+markClass dvVirama <anchor -48 -20> @MC_blwm.virama;
+markClass dvmAI <anchor -53 641> @MC_abvm.e;
+markClass dvmAI_Reph_Anusvara <anchor -49 641> @MC_abvm.e;
+markClass dvmEcandra <anchor -106 631> @MC_topmiddle;
+markClass dvmEcandra <anchor -53 631> @MC_abvm.bindu;
+markClass dvmU <anchor -162 0> @MC_blwm.u;
+markClass dvmUU <anchor -45 -10> @MC_blwm.uu;
+

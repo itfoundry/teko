@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvDDHxA">
+  <advance width="439" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="175" y="-159" />
+      <point type="line" x="270" y="-159" />
+      <point type="line" x="270" y="-54" />
+      <point type="line" x="175" y="-54" />
+    </contour>
+    <contour>
+      <point type="line" x="355" y="397" />
+      <point type="line" x="355" y="548" />
+      <point type="line" x="459" y="548" />
+      <point type="line" x="459" y="631" />
+      <point type="line" x="-20" y="631" />
+      <point type="line" x="-20" y="548" />
+      <point type="line" x="242" y="548" />
+      <point type="line" x="242" y="479" />
+      <point type="line" x="154" y="479" />
+      <point x="77" y="479" />
+      <point x="48" y="450" />
+      <point type="curve" x="48" y="388" />
+      <point type="line" x="48" y="100" />
+      <point x="48" y="30" />
+      <point x="81" y="0" />
+      <point type="curve" x="163" y="0" />
+      <point type="line" x="280" y="0" />
+      <point x="362" y="0" />
+      <point x="395" y="30" />
+      <point type="curve" x="395" y="100" />
+      <point type="line" x="395" y="192" />
+      <point x="395" y="263" />
+      <point x="362" y="292" />
+      <point type="curve" x="280" y="292" />
+      <point type="line" x="210" y="292" />
+      <point type="line" x="210" y="209" />
+      <point type="line" x="253" y="209" />
+      <point x="274" y="209" />
+      <point x="281" y="204" />
+      <point type="curve" x="281" y="182" />
+      <point type="line" x="281" y="111" />
+      <point x="281" y="88" />
+      <point x="274" y="83" />
+      <point type="curve" x="253" y="83" />
+      <point type="line" x="190" y="83" />
+      <point x="169" y="83" />
+      <point x="162" y="88" />
+      <point type="curve" x="162" y="111" />
+      <point type="line" x="162" y="369" />
+      <point x="162" y="392" />
+      <point x="169" y="397" />
+      <point type="curve" x="190" y="397" />
+    </contour>
+  </outline>
+</glyph>

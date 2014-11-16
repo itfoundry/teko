@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Amacron">
+  <advance width="343" />
+  <unicode hex="0100" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="284" y="711" />
+      <point type="line" x="48" y="711" />
+      <point type="line" x="48" y="653" />
+      <point type="line" x="284" y="653" />
+    </contour>
+    <contour>
+      <point type="line" x="115" y="217" />
+      <point type="line" x="166" y="574" />
+      <point type="line" x="224" y="217" />
+    </contour>
+    <contour>
+      <point type="line" x="259" y="0" />
+      <point type="line" x="328" y="0" />
+      <point type="line" x="221" y="622" />
+      <point type="line" x="112" y="622" />
+      <point type="line" x="15" y="0" />
+      <point type="line" x="84" y="0" />
+      <point type="line" x="107" y="158" />
+      <point type="line" x="233" y="158" />
+    </contour>
+  </outline>
+</glyph>

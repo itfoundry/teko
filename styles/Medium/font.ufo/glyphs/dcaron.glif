@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="1">
+  <advance width="427"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="394" y="669" type="line"/>
+      <point x="394" y="486" type="line"/>
+      <point x="427" y="486" type="line"/>
+      <point x="480" y="613" type="line"/>
+      <point x="480" y="669" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+</glyph>

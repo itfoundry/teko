@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="onesuperior">
+  <advance width="218" />
+  <unicode hex="00B9" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="169" y="642" />
+      <point type="line" x="10" y="642" />
+      <point type="line" x="10" y="573" />
+      <point type="line" x="59" y="573" />
+      <point type="line" x="59" y="289" />
+      <point type="line" x="169" y="289" />
+    </contour>
+  </outline>
+</glyph>

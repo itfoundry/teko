@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvK_SHA">
+  <advance width="920" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="514" y="628" />
+      <point x="449" y="628" />
+      <point x="422" y="598" />
+      <point type="curve" x="422" y="541" />
+      <point type="line" x="422" y="452" />
+      <point type="line" x="512" y="452" />
+      <point type="line" x="512" y="529" />
+      <point x="512" y="553" />
+      <point x="518" y="558" />
+      <point type="curve" x="540" y="558" />
+      <point type="line" x="578" y="558" />
+      <point x="602" y="558" />
+      <point x="607" y="553" />
+      <point type="curve" x="607" y="529" />
+      <point type="line" x="607" y="363" />
+      <point x="607" y="337" />
+      <point x="601" y="331" />
+      <point type="curve" x="576" y="331" />
+      <point type="line" x="511" y="331" />
+      <point type="line" x="511" y="381" />
+      <point type="line" x="355" y="381" />
+      <point x="338" y="381" />
+      <point x="327" y="378" />
+      <point type="curve" x="319" y="370" />
+      <point type="line" x="319" y="556" />
+      <point type="line" x="377" y="556" />
+      <point type="line" x="377" y="626" />
+      <point type="line" x="-20" y="626" />
+      <point type="line" x="-20" y="556" />
+      <point type="line" x="229" y="556" />
+      <point type="line" x="229" y="180" />
+      <point x="229" y="156" />
+      <point x="221" y="148" />
+      <point type="curve" x="197" y="148" />
+      <point type="line" x="159" y="148" />
+      <point x="136" y="148" />
+      <point x="130" y="153" />
+      <point type="curve" x="130" y="178" />
+      <point type="line" x="130" y="385" />
+      <point x="130" y="409" />
+      <point x="136" y="414" />
+      <point type="curve" x="159" y="414" />
+      <point type="line" x="188" y="414" />
+      <point type="line" x="188" y="482" />
+      <point type="line" x="132" y="482" />
+      <point x="67" y="482" />
+      <point x="40" y="455" />
+      <point type="curve" x="40" y="397" />
+      <point type="line" x="40" y="167" />
+      <point x="40" y="106" />
+      <point x="70" y="78" />
+      <point type="curve" x="130" y="78" />
+      <point type="line" x="192" y="78" />
+      <point x="210" y="78" />
+      <point x="221" y="81" />
+      <point type="curve" x="229" y="89" />
+      <point type="line" x="229" y="0" />
+      <point type="line" x="319" y="0" />
+      <point type="line" x="319" y="278" />
+      <point x="319" y="303" />
+      <point x="327" y="310" />
+      <point type="curve" x="351" y="310" />
+      <point type="line" x="421" y="310" />
+      <point type="line" x="421" y="85" />
+      <point x="421" y="28" />
+      <point x="448" y="0" />
+      <point type="curve" x="512" y="0" />
+      <point type="line" x="604" y="0" />
+      <point x="669" y="0" />
+      <point x="696" y="28" />
+      <point type="curve" x="696" y="85" />
+      <point type="line" x="696" y="193" />
+      <point type="line" x="606" y="193" />
+      <point type="line" x="606" y="97" />
+      <point x="606" y="73" />
+      <point x="600" y="68" />
+      <point type="curve" x="578" y="68" />
+      <point type="line" x="540" y="68" />
+      <point x="516" y="68" />
+      <point x="511" y="73" />
+      <point type="curve" x="511" y="97" />
+      <point type="line" x="511" y="261" />
+      <point type="line" x="597" y="261" />
+      <point x="666" y="261" />
+      <point x="697" y="288" />
+      <point type="curve" x="697" y="347" />
+      <point type="line" x="697" y="541" />
+      <point x="697" y="598" />
+      <point x="670" y="628" />
+      <point type="curve" x="606" y="628" />
+    </contour>
+    <contour>
+      <point type="line" x="778" y="626" />
+      <point type="line" x="778" y="0" />
+      <point type="line" x="867" y="0" />
+      <point type="line" x="867" y="556" />
+      <point type="line" x="939" y="556" />
+      <point type="line" x="939" y="626" />
+    </contour>
+  </outline>
+</glyph>

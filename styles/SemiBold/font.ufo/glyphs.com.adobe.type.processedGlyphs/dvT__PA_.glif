@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvT_PA">
+  <advance width="681" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="498" y="202" />
+      <point x="498" y="181" />
+      <point x="490" y="175" />
+      <point type="curve" x="472" y="175" />
+      <point type="line" x="440" y="175" />
+      <point x="421" y="175" />
+      <point x="414" y="180" />
+      <point type="curve" x="414" y="201" />
+      <point type="line" x="414" y="539" />
+      <point type="line" x="498" y="539" />
+    </contour>
+    <contour>
+      <point type="line" x="702" y="636" />
+      <point type="line" x="-20" y="636" />
+      <point type="line" x="-20" y="539" />
+      <point type="line" x="275" y="539" />
+      <point type="line" x="275" y="476" />
+      <point type="line" x="163" y="476" />
+      <point x="71" y="476" />
+      <point x="42" y="444" />
+      <point type="curve" x="42" y="377" />
+      <point type="line" x="42" y="99" />
+      <point x="42" y="32" />
+      <point x="71" y="0" />
+      <point type="curve" x="163" y="0" />
+      <point type="line" x="225" y="0" />
+      <point type="line" x="225" y="98" />
+      <point type="line" x="207" y="98" />
+      <point x="188" y="98" />
+      <point x="181" y="103" />
+      <point type="curve" x="181" y="121" />
+      <point type="line" x="181" y="356" />
+      <point x="181" y="374" />
+      <point x="188" y="379" />
+      <point type="curve" x="207" y="379" />
+      <point type="line" x="275" y="379" />
+      <point type="line" x="275" y="191" />
+      <point x="275" y="110" />
+      <point x="314" y="78" />
+      <point type="curve" x="390" y="78" />
+      <point type="line" x="452" y="78" />
+      <point x="475" y="78" />
+      <point x="489" y="82" />
+      <point type="curve" x="498" y="92" />
+      <point type="line" x="498" y="0" />
+      <point type="line" x="638" y="0" />
+      <point type="line" x="638" y="539" />
+      <point type="line" x="702" y="539" />
+    </contour>
+  </outline>
+</glyph>

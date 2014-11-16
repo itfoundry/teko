@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmAA" format="1">
+  <advance width="229"/>
+  <outline>
+    <contour>
+      <point x="115" y="636" type="move" name="topmiddle"/>
+    </contour>
+    <contour>
+      <point x="184" y="636" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="45" y="561" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="561" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="636" type="line"/>
+      <point x="-20" y="539" type="line"/>
+      <point x="249" y="539" type="line"/>
+      <point x="249" y="636" type="line"/>
+    </contour>
+  </outline>
+</glyph>

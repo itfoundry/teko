@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNukta" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-137" y="-62" type="line"/>
+      <point x="-137" y="-157" type="line"/>
+      <point x="-54" y="-157" type="line"/>
+      <point x="-54" y="-62" type="line"/>
+    </contour>
+  </outline>
+</glyph>

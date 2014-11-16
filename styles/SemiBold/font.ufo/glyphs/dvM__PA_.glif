@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_PA" format="1">
+  <advance width="896"/>
+  <outline>
+    <component base="dvM" xOffset="7"/>
+    <component base="dvPA" xOffset="437"/>
+  </outline>
+</glyph>

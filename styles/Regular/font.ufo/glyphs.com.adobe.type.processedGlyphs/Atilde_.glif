@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Atilde">
+  <advance width="385" />
+  <unicode hex="00C3" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="123" y="673" />
+      <point x="123" y="688" />
+      <point x="128" y="696" />
+      <point type="curve" x="140" y="696" />
+      <point x="164" y="696" />
+      <point x="194" y="658" />
+      <point type="curve" x="241" y="658" />
+      <point type="line" x="248" y="658" />
+      <point x="308" y="658" />
+      <point x="325" y="688" />
+      <point type="curve" x="325" y="737" />
+      <point type="line" x="325" y="760" />
+      <point type="line" x="248" y="760" />
+      <point type="line" x="248" y="746" />
+      <point x="248" y="726" />
+      <point x="243" y="722" />
+      <point type="curve" x="229" y="722" />
+      <point x="206" y="722" />
+      <point x="177" y="760" />
+      <point type="curve" x="132" y="760" />
+      <point type="line" x="123" y="760" />
+      <point x="64" y="760" />
+      <point x="45" y="730" />
+      <point type="curve" x="45" y="680" />
+      <point type="line" x="45" y="658" />
+      <point type="line" x="123" y="658" />
+    </contour>
+    <contour>
+      <point type="line" x="136" y="218" />
+      <point type="line" x="188" y="548" />
+      <point type="line" x="245" y="218" />
+    </contour>
+    <contour>
+      <point type="line" x="282" y="0" />
+      <point type="line" x="373" y="0" />
+      <point type="line" x="254" y="626" />
+      <point type="line" x="123" y="626" />
+      <point type="line" x="12" y="0" />
+      <point type="line" x="102" y="0" />
+      <point type="line" x="125" y="145" />
+      <point type="line" x="257" y="145" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvCandrabindu" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-96" y="626" type="move" name="_topmiddle"/>
+    </contour>
+    <contour>
+      <point x="-54" y="626" type="move" name="_abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="-250" y="811" type="line"/>
+      <point x="-250" y="755" type="line" smooth="yes"/>
+      <point x="-250" y="700"/>
+      <point x="-222" y="672"/>
+      <point x="-156" y="672" type="curve" smooth="yes"/>
+      <point x="-36" y="672" type="line" smooth="yes"/>
+      <point x="30" y="672"/>
+      <point x="58" y="700"/>
+      <point x="58" y="755" type="curve" smooth="yes"/>
+      <point x="58" y="811" type="line"/>
+      <point x="-21" y="811" type="line"/>
+      <point x="-21" y="764" type="line" smooth="yes"/>
+      <point x="-21" y="740"/>
+      <point x="-27" y="734"/>
+      <point x="-52" y="734" type="curve" smooth="yes"/>
+      <point x="-140" y="734" type="line" smooth="yes"/>
+      <point x="-165" y="734"/>
+      <point x="-170" y="740"/>
+      <point x="-170" y="764" type="curve" smooth="yes"/>
+      <point x="-170" y="811" type="line"/>
+    </contour>
+    <contour>
+      <point x="-136" y="857" type="line"/>
+      <point x="-136" y="775" type="line"/>
+      <point x="-57" y="775" type="line"/>
+      <point x="-57" y="857" type="line"/>
+    </contour>
+  </outline>
+</glyph>

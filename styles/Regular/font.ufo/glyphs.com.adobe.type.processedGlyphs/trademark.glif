@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="trademark">
+  <advance width="626" />
+  <unicode hex="2122" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="6" y="560" />
+      <point type="line" x="87" y="560" />
+      <point type="line" x="87" y="302" />
+      <point type="line" x="166" y="302" />
+      <point type="line" x="166" y="560" />
+      <point type="line" x="248" y="560" />
+      <point type="line" x="248" y="626" />
+      <point type="line" x="6" y="626" />
+    </contour>
+    <contour>
+      <point type="line" x="501" y="626" />
+      <point type="line" x="440" y="441" />
+      <point type="line" x="378" y="626" />
+      <point type="line" x="284" y="626" />
+      <point type="line" x="284" y="302" />
+      <point type="line" x="355" y="302" />
+      <point type="line" x="355" y="511" />
+      <point type="line" x="406" y="357" />
+      <point type="line" x="475" y="357" />
+      <point type="line" x="524" y="511" />
+      <point type="line" x="524" y="302" />
+      <point type="line" x="596" y="302" />
+      <point type="line" x="596" y="626" />
+    </contour>
+  </outline>
+</glyph>

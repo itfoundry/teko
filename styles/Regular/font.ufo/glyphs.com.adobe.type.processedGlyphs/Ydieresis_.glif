@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Ydieresis">
+  <advance width="357" />
+  <unicode hex="0178" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="327" y="755" />
+      <point type="line" x="226" y="755" />
+      <point type="line" x="226" y="661" />
+      <point type="line" x="327" y="661" />
+    </contour>
+    <contour>
+      <point type="line" x="138" y="755" />
+      <point type="line" x="36" y="755" />
+      <point type="line" x="36" y="661" />
+      <point type="line" x="138" y="661" />
+    </contour>
+    <contour>
+      <point type="line" x="357" y="626" />
+      <point type="line" x="265" y="626" />
+      <point type="line" x="183" y="281" />
+      <point type="line" x="96" y="626" />
+      <point type="line" x="4" y="626" />
+      <point type="line" x="138" y="198" />
+      <point type="line" x="138" y="0" />
+      <point type="line" x="229" y="0" />
+      <point type="line" x="229" y="198" />
+    </contour>
+  </outline>
+</glyph>

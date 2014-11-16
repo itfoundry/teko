@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvRxA" format="1">
+  <advance width="393"/>
+  <outline>
+    <component base="dvRA"/>
+    <component base="dvNukta" xOffset="290" yOffset="-17"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmOcandra">
+  <advance width="195" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-19" y="556" />
+      <point type="line" x="53" y="556" />
+      <point type="line" x="53" y="0" />
+      <point type="line" x="142" y="0" />
+      <point type="line" x="142" y="556" />
+      <point type="line" x="214" y="556" />
+      <point type="line" x="214" y="626" />
+      <point type="line" x="-19" y="626" />
+    </contour>
+    <contour>
+      <point type="line" x="171" y="811" />
+      <point type="line" x="171" y="764" />
+      <point x="171" y="740" />
+      <point x="166" y="734" />
+      <point type="curve" x="141" y="734" />
+      <point type="line" x="53" y="734" />
+      <point x="28" y="734" />
+      <point x="23" y="740" />
+      <point type="curve" x="23" y="764" />
+      <point type="line" x="23" y="811" />
+      <point type="line" x="-57" y="811" />
+      <point type="line" x="-57" y="755" />
+      <point x="-57" y="700" />
+      <point x="-29" y="672" />
+      <point type="curve" x="37" y="672" />
+      <point type="line" x="157" y="672" />
+      <point x="223" y="672" />
+      <point x="251" y="700" />
+      <point type="curve" x="251" y="755" />
+      <point type="line" x="251" y="811" />
+    </contour>
+  </outline>
+</glyph>

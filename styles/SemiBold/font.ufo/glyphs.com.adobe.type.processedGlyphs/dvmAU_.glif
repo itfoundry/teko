@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmAU">
+  <advance width="229" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="249" y="636" />
+      <point type="line" x="182" y="636" />
+      <point type="line" x="159" y="834" />
+      <point type="line" x="29" y="834" />
+      <point type="line" x="54" y="774" />
+      <point x="76" y="722" />
+      <point x="89" y="688" />
+      <point type="curve" x="113" y="646" />
+      <point type="line" x="108" y="646" />
+      <point x="80" y="691" />
+      <point x="54" y="725" />
+      <point type="curve" x="8" y="781" />
+      <point type="line" x="-35" y="834" />
+      <point type="line" x="-202" y="834" />
+      <point type="line" x="-78" y="726" />
+      <point x="-27" y="681" />
+      <point x="3" y="658" />
+      <point type="curve" x="39" y="636" />
+      <point type="line" x="-20" y="636" />
+      <point type="line" x="-20" y="539" />
+      <point type="line" x="45" y="539" />
+      <point type="line" x="45" y="0" />
+      <point type="line" x="184" y="0" />
+      <point type="line" x="184" y="539" />
+      <point type="line" x="249" y="539" />
+    </contour>
+  </outline>
+</glyph>

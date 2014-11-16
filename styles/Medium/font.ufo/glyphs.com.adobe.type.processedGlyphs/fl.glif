@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="fl">
+  <advance width="415" />
+  <unicode hex="FB02" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="261" y="669" />
+      <point type="line" x="261" y="491" />
+      <point type="line" x="169" y="491" />
+      <point type="line" x="169" y="554" />
+      <point x="169" y="575" />
+      <point x="175" y="581" />
+      <point type="curve" x="197" y="581" />
+      <point type="line" x="216" y="581" />
+      <point type="line" x="216" y="669" />
+      <point type="line" x="165" y="669" />
+      <point x="89" y="669" />
+      <point x="57" y="633" />
+      <point type="curve" x="57" y="570" />
+      <point type="line" x="57" y="491" />
+      <point type="line" x="7" y="491" />
+      <point type="line" x="7" y="403" />
+      <point type="line" x="57" y="403" />
+      <point type="line" x="57" y="0" />
+      <point type="line" x="169" y="0" />
+      <point type="line" x="169" y="403" />
+      <point type="line" x="261" y="403" />
+      <point type="line" x="261" y="0" />
+      <point type="line" x="373" y="0" />
+      <point type="line" x="373" y="669" />
+    </contour>
+  </outline>
+</glyph>

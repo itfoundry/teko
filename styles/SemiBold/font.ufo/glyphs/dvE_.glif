@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvE" format="1">
+  <advance width="472"/>
+  <outline>
+    <contour>
+      <point x="249" y="636" type="move" name="topmiddle"/>
+    </contour>
+    <contour>
+      <point x="430" y="646" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="45" y="572" type="line"/>
+      <point x="45" y="99" type="line" smooth="yes"/>
+      <point x="45" y="32"/>
+      <point x="74" y="0"/>
+      <point x="166" y="0" type="curve" smooth="yes"/>
+      <point x="307" y="0" type="line" smooth="yes"/>
+      <point x="400" y="0"/>
+      <point x="429" y="32"/>
+      <point x="429" y="99" type="curve" smooth="yes"/>
+      <point x="429" y="215" type="line"/>
+      <point x="289" y="215" type="line"/>
+      <point x="289" y="113" type="line" smooth="yes"/>
+      <point x="289" y="95"/>
+      <point x="282" y="90"/>
+      <point x="268" y="90" type="curve" smooth="yes"/>
+      <point x="210" y="90" type="line" smooth="yes"/>
+      <point x="191" y="90"/>
+      <point x="184" y="95"/>
+      <point x="184" y="113" type="curve" smooth="yes"/>
+      <point x="184" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="572" type="line"/>
+      <point x="290" y="393" type="line" smooth="yes"/>
+      <point x="290" y="375"/>
+      <point x="283" y="370"/>
+      <point x="265" y="370" type="curve" smooth="yes"/>
+      <point x="230" y="370" type="line"/>
+      <point x="230" y="273" type="line"/>
+      <point x="308" y="273" type="line" smooth="yes"/>
+      <point x="401" y="273"/>
+      <point x="430" y="304"/>
+      <point x="430" y="371" type="curve" smooth="yes"/>
+      <point x="430" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="636" type="line"/>
+      <point x="-20" y="539" type="line"/>
+      <point x="492" y="539" type="line"/>
+      <point x="492" y="636" type="line"/>
+    </contour>
+  </outline>
+</glyph>

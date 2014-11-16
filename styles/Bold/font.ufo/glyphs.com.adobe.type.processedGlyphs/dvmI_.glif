@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmI">
+  <advance width="250" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="162" y="858" />
+      <point x="90" y="858" />
+      <point x="40" y="828" />
+      <point type="curve" x="40" y="746" />
+      <point type="line" x="40" y="642" />
+      <point type="line" x="-20" y="642" />
+      <point type="line" x="-20" y="529" />
+      <point type="line" x="40" y="529" />
+      <point type="line" x="40" y="0" />
+      <point type="line" x="210" y="0" />
+      <point type="line" x="210" y="529" />
+      <point type="line" x="270" y="529" />
+      <point type="line" x="270" y="642" />
+      <point type="line" x="210" y="642" />
+      <point type="line" x="210" y="709" />
+      <point x="210" y="739" />
+      <point x="216" y="745" />
+      <point type="curve" x="246" y="745" />
+      <point type="line" x="482" y="745" />
+      <point x="512" y="745" />
+      <point x="518" y="739" />
+      <point type="curve" x="518" y="709" />
+      <point type="line" x="518" y="676" />
+      <point type="line" x="688" y="676" />
+      <point type="line" x="688" y="746" />
+      <point x="688" y="828" />
+      <point x="638" y="858" />
+      <point type="curve" x="566" y="858" />
+    </contour>
+  </outline>
+</glyph>

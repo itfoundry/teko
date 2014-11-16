@@ -1,0 +1,20 @@
+# Created: Mon Nov 17 00:03:43 2014
+# PS Name: Teko-SemiBold
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_topmiddle {
+	pos base dvA <anchor 547 636> mark @MC_topmiddle;
+	pos base dvE <anchor 249 636> mark @MC_topmiddle;
+	pos base dvmAA <anchor 115 636> mark @MC_topmiddle;
+} MARK_BASE_topmiddle;
+
+
+lookup MARK_BASE_topright {
+	pos base dvmAA <anchor 184 636> mark @MC_topright;
+} MARK_BASE_topright;
+
+
+
