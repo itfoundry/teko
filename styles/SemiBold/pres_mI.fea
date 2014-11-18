@@ -53,6 +53,7 @@
   dvTT_TTHA
   dvDD_DDA
   dvDD_DDHA
+  dvDDH_VA
   dvT_TA
   dvP_TTA
   dvP_TA
@@ -68,6 +69,8 @@
   dvNG_RA
   dvT_RA
   dvB_RA
+  dvSS_RA
+  dvTTH_VA
   dvD_BA
   dvSS_TTA
   dvSS_TT_RA
@@ -139,6 +142,8 @@
   dvLA
   dvSHA
   dvBH_RA
+  dvL_RA
+  dvLL_RA
   dvT_KA
   dvT_K_RA
   dvT_T_VA

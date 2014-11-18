@@ -55,6 +55,7 @@
   dvT_RA
   dvK_TA
   dvTT_TTA
+  dvDDH_VA
   dvT_TA
   dvP_TTA
   dvP_TA
@@ -67,8 +68,10 @@
   dvSSA
   dvGH_RA
   dvB_RA
+  dvSS_RA
   dvH_RA
   dvTT_VA
+  dvTTH_VA
   dvD_BA
   dvD_B_RA
   dvSS_TTA
@@ -126,6 +129,7 @@
   dvJH_RA
   dvNN_RA
   dvM_RA
+  dvL_RA
   dvSH_RA
   dvS_RA
   dvKx_RA
@@ -138,6 +142,7 @@
 @mI_BASES_10 = [
   dvBHA
   dvBH_RA
+  dvLL_RA
   dvT_KA
   dvT_K_RA
   dvT_T_VA

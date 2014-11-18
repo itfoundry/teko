@@ -1,13 +1,13 @@
-# Created: Mon Nov 17 00:02:56 2014
+# Created: Tue Nov 18 16:15:59 2014
 # PS Name: Teko-Light
 # MM Inst: None
 # exported from noApp
 
-@mGC_abvm.bindu_n57_622 = [dvmEcandra dvAnusvara dvCandrabindu];
+@mGC_abvm.bindu_n57_622 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
 @mGC_abvm.e_n57_632 = [dvmAI dvmE_Reph dvmAI_Reph];
 @mGC_abvm.e_n58_632 = [dvmE dvmE_Reph_Anusvara];
 @mGC_blwm.vr_n55_n30 = [dvmvR dvmvRR];
-@mGC_topmiddle_n89_622 = [dvmEcandra dvCandrabindu];
+@mGC_topmiddle_n89_622 = [dvmEcandra dvCandrabindu dvmEcandra_Anusvara];
 @mGC_topright_n56_622 = [dvReph_Anusvara dvmAI_Reph_Anusvara];
 @mGC_topright_n57_622 = [dvmAI dvmE_Reph dvmAI_Reph];
 @mGC_topright_n58_622 = [dvmE dvmE_Reph_Anusvara];
@@ -30,4 +30,5 @@ markClass dvVirama <anchor -55 -20> @MC_blwm.virama;
 markClass dvmAI_Reph_Anusvara <anchor -56 632> @MC_abvm.e;
 markClass dvmU <anchor -124 0> @MC_blwm.u;
 markClass dvmUU <anchor -55 -10> @MC_blwm.uu;
+markClass dvmvL <anchor -123 0> @MC_blwm.u;
 

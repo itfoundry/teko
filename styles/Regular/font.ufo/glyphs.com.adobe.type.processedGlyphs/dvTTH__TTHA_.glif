@@ -39,8 +39,8 @@
       <point type="curve" x="283" y="43" />
     </contour>
     <contour>
-      <point type="line" x="412" y="556" />
-      <point type="line" x="412" y="626" />
+      <point type="line" x="426" y="556" />
+      <point type="line" x="426" y="626" />
       <point type="line" x="-20" y="626" />
       <point type="line" x="-20" y="556" />
       <point type="line" x="164" y="556" />

@@ -11,6 +11,8 @@
   dvmUU
   dvmvR
   dvmvRR
+  dvmvL
+  dvmvLL
   dvmE
   dvmAI
   dvmEcandra
@@ -26,6 +28,7 @@
   dvmE_Reph_Anusvara
   dvmAI_Reph
   dvmAI_Reph_Anusvara
+  dvmEcandra_Anusvara
 ];
 
 @mII_BASES = [
@@ -189,10 +192,13 @@
   dvBH_RA
   dvM_RA
   dvY_RA
+  dvL_RA
   dvV_RA
+  dvSS_RA
   dvSH_RA
   dvS_RA
   dvH_RA
+  dvLL_RA
   dvKx_RA
   dvKHx_RA
   dvGx_RA
@@ -310,12 +316,14 @@
   dvTT_VA
   dvTTH_TTHA
   dvTTH_YA
+  dvTTH_VA
   dvDD_DDA
   dvDD_DDHA
   dvDD_YA
   dvDD_VA
   dvDDH_DDHA
   dvDDH_YA
+  dvDDH_VA
   dvNN_TTA
   dvNN_TTHA
   dvNN_DDA

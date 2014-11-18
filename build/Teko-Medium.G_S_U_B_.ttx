@@ -341,11 +341,11 @@
       </FeatureRecord>
     </FeatureList>
     <LookupList>
-      <!-- LookupCount=65 -->
+      <!-- LookupCount=67 -->
       <Lookup index="0">
         <!-- LookupType=6 -->
         <LookupFlag value="0"/>
-        <!-- SubTableCount=2 -->
+        <!-- SubTableCount=4 -->
         <ChainContextSubst index="0" Format="3">
           <!-- BacktrackGlyphCount=0 -->
           <!-- InputGlyphCount=1 -->
@@ -378,12 +378,46 @@
             <LookupListIndex value="22"/>
           </SubstLookupRecord>
         </ChainContextSubst>
+        <ChainContextSubst index="2" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="dvRA"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="dvmvL"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="23"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="3" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="dvRA"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="dvmvLL"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
       </Lookup>
       <Lookup index="1">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <SingleSubst index="0">
+          <Substitution in="dvmvL" out="dvReph"/>
+          <Substitution in="dvmvLL" out="dvReph"/>
           <Substitution in="dvmvR" out="dvReph"/>
           <Substitution in="dvmvRR" out="dvReph"/>
         </SingleSubst>
@@ -452,7 +486,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="23"/>
+            <LookupListIndex value="25"/>
           </SubstLookupRecord>
         </ChainContextSubst>
       </Lookup>
@@ -528,6 +562,12 @@
           <LigatureSet glyph="dvKxA">
             <Ligature components="dvVirama,dvRA" glyph="dvKx_RA"/>
           </LigatureSet>
+          <LigatureSet glyph="dvLA">
+            <Ligature components="dvVirama,dvRA" glyph="dvL_RA"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvLLA">
+            <Ligature components="dvVirama,dvRA" glyph="dvLL_RA"/>
+          </LigatureSet>
           <LigatureSet glyph="dvMA">
             <Ligature components="dvVirama,dvRA" glyph="dvM_RA"/>
           </LigatureSet>
@@ -557,6 +597,9 @@
           </LigatureSet>
           <LigatureSet glyph="dvSHA">
             <Ligature components="dvVirama,dvRA" glyph="dvSH_RA"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvSSA">
+            <Ligature components="dvVirama,dvRA" glyph="dvSS_RA"/>
           </LigatureSet>
           <LigatureSet glyph="dvTA">
             <Ligature components="dvVirama,dvRA" glyph="dvT_RA"/>
@@ -742,6 +785,9 @@
           <LigatureSet glyph="dvB_RA">
             <Ligature components="dvVirama" glyph="dvB_R"/>
           </LigatureSet>
+          <LigatureSet glyph="dvCH_RA">
+            <Ligature components="dvVirama" glyph="dvCH_R"/>
+          </LigatureSet>
           <LigatureSet glyph="dvC_RA">
             <Ligature components="dvVirama" glyph="dvC_R"/>
           </LigatureSet>
@@ -766,6 +812,9 @@
           <LigatureSet glyph="dvGx_RA">
             <Ligature components="dvVirama" glyph="dvGx_R"/>
           </LigatureSet>
+          <LigatureSet glyph="dvH_RA">
+            <Ligature components="dvVirama" glyph="dvH_R"/>
+          </LigatureSet>
           <LigatureSet glyph="dvJH_RA">
             <Ligature components="dvVirama" glyph="dvJH_R"/>
           </LigatureSet>
@@ -787,8 +836,17 @@
           <LigatureSet glyph="dvKx_RA">
             <Ligature components="dvVirama" glyph="dvKx_R"/>
           </LigatureSet>
+          <LigatureSet glyph="dvLL_RA">
+            <Ligature components="dvVirama" glyph="dvLL_R"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvL_RA">
+            <Ligature components="dvVirama" glyph="dvL_R"/>
+          </LigatureSet>
           <LigatureSet glyph="dvM_RA">
             <Ligature components="dvVirama" glyph="dvM_R"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvNG_RA">
+            <Ligature components="dvVirama" glyph="dvNG_R"/>
           </LigatureSet>
           <LigatureSet glyph="dvNN_RA">
             <Ligature components="dvVirama" glyph="dvNN_R"/>
@@ -807,6 +865,12 @@
           </LigatureSet>
           <LigatureSet glyph="dvP_RA">
             <Ligature components="dvVirama" glyph="dvP_R"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvSH_RA">
+            <Ligature components="dvVirama" glyph="dvSH_R"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvSS_RA">
+            <Ligature components="dvVirama" glyph="dvSS_R"/>
           </LigatureSet>
           <LigatureSet glyph="dvS_RA">
             <Ligature components="dvVirama" glyph="dvS_R"/>
@@ -854,6 +918,9 @@
           <LigatureSet glyph="dvCA">
             <Ligature components="dvRashtrasign" glyph="dvC_RA"/>
           </LigatureSet>
+          <LigatureSet glyph="dvCH">
+            <Ligature components="dvRashtrasign" glyph="dvCH_R"/>
+          </LigatureSet>
           <LigatureSet glyph="dvCHA">
             <Ligature components="dvRashtrasign" glyph="dvCH_RA"/>
           </LigatureSet>
@@ -898,6 +965,9 @@
           </LigatureSet>
           <LigatureSet glyph="dvGxA">
             <Ligature components="dvRashtrasign" glyph="dvGx_RA"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvH">
+            <Ligature components="dvRashtrasign" glyph="dvH_R"/>
           </LigatureSet>
           <LigatureSet glyph="dvHA">
             <Ligature components="dvRashtrasign" glyph="dvH_RA"/>
@@ -944,6 +1014,18 @@
           <LigatureSet glyph="dvKxA">
             <Ligature components="dvRashtrasign" glyph="dvKx_RA"/>
           </LigatureSet>
+          <LigatureSet glyph="dvL">
+            <Ligature components="dvRashtrasign" glyph="dvL_R"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvLA">
+            <Ligature components="dvRashtrasign" glyph="dvL_RA"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvLL">
+            <Ligature components="dvRashtrasign" glyph="dvLL_R"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvLLA">
+            <Ligature components="dvRashtrasign" glyph="dvLL_RA"/>
+          </LigatureSet>
           <LigatureSet glyph="dvM">
             <Ligature components="dvRashtrasign" glyph="dvM_R"/>
           </LigatureSet>
@@ -955,6 +1037,9 @@
           </LigatureSet>
           <LigatureSet glyph="dvNA">
             <Ligature components="dvRashtrasign" glyph="dvN_RA"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvNG">
+            <Ligature components="dvRashtrasign" glyph="dvNG_R"/>
           </LigatureSet>
           <LigatureSet glyph="dvNGA">
             <Ligature components="dvRashtrasign" glyph="dvNG_RA"/>
@@ -995,8 +1080,17 @@
           <LigatureSet glyph="dvSA">
             <Ligature components="dvRashtrasign" glyph="dvS_RA"/>
           </LigatureSet>
+          <LigatureSet glyph="dvSH">
+            <Ligature components="dvRashtrasign" glyph="dvSH_R"/>
+          </LigatureSet>
           <LigatureSet glyph="dvSHA">
             <Ligature components="dvRashtrasign" glyph="dvSH_RA"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvSS">
+            <Ligature components="dvRashtrasign" glyph="dvSS_R"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvSSA">
+            <Ligature components="dvRashtrasign" glyph="dvSS_RA"/>
           </LigatureSet>
           <LigatureSet glyph="dvT">
             <Ligature components="dvRashtrasign" glyph="dvT_R"/>
@@ -1081,6 +1175,9 @@
           <LigatureSet glyph="dvCH">
             <Ligature components="dvYA" glyph="dvCH_YA"/>
           </LigatureSet>
+          <LigatureSet glyph="dvCH_R">
+            <Ligature components="dvYA" glyph="dvCH_R_YA"/>
+          </LigatureSet>
           <LigatureSet glyph="dvD">
             <Ligature components="dvGA" glyph="dvD_GA"/>
             <Ligature components="dvGHA" glyph="dvD_GHA"/>
@@ -1104,6 +1201,7 @@
           <LigatureSet glyph="dvDDH">
             <Ligature components="dvDDHA" glyph="dvDDH_DDHA"/>
             <Ligature components="dvYA" glyph="dvDDH_YA"/>
+            <Ligature components="dvVA" glyph="dvDDH_VA"/>
           </LigatureSet>
           <LigatureSet glyph="dvDH">
             <Ligature components="dvN,dvYA" glyph="dvDH_N_YA"/>
@@ -1487,6 +1585,7 @@
           <LigatureSet glyph="dvTTH">
             <Ligature components="dvTTHA" glyph="dvTTH_TTHA"/>
             <Ligature components="dvYA" glyph="dvTTH_YA"/>
+            <Ligature components="dvVA" glyph="dvTTH_VA"/>
           </LigatureSet>
           <LigatureSet glyph="dvT_R">
             <Ligature components="dvYA" glyph="dvT_R_YA"/>
@@ -1528,7 +1627,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="24"/>
+            <LookupListIndex value="26"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="1" Format="3">
@@ -1571,7 +1670,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="25"/>
+            <LookupListIndex value="27"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="2" Format="3">
@@ -1590,6 +1689,7 @@
             <Glyph value="dvT_RA"/>
             <Glyph value="dvK_TA"/>
             <Glyph value="dvTT_TTA"/>
+            <Glyph value="dvDDH_VA"/>
             <Glyph value="dvT_TA"/>
             <Glyph value="dvP_TTA"/>
             <Glyph value="dvP_TA"/>
@@ -1598,7 +1698,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="26"/>
+            <LookupListIndex value="28"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="3" Format="3">
@@ -1614,8 +1714,10 @@
             <Glyph value="dvSSA"/>
             <Glyph value="dvGH_RA"/>
             <Glyph value="dvB_RA"/>
+            <Glyph value="dvSS_RA"/>
             <Glyph value="dvH_RA"/>
             <Glyph value="dvTT_VA"/>
+            <Glyph value="dvTTH_VA"/>
             <Glyph value="dvD_BA"/>
             <Glyph value="dvD_B_RA"/>
             <Glyph value="dvSS_TTA"/>
@@ -1626,7 +1728,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="27"/>
+            <LookupListIndex value="29"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="4" Format="3">
@@ -1642,7 +1744,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="28"/>
+            <LookupListIndex value="30"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="5" Format="3">
@@ -1667,7 +1769,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="29"/>
+            <LookupListIndex value="31"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="6" Format="3">
@@ -1683,7 +1785,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="30"/>
+            <LookupListIndex value="32"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="7" Format="3">
@@ -1703,7 +1805,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="31"/>
+            <LookupListIndex value="33"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="8" Format="3">
@@ -1733,6 +1835,7 @@
             <Glyph value="dvJH_RA"/>
             <Glyph value="dvNN_RA"/>
             <Glyph value="dvM_RA"/>
+            <Glyph value="dvL_RA"/>
             <Glyph value="dvSH_RA"/>
             <Glyph value="dvS_RA"/>
             <Glyph value="dvKx_RA"/>
@@ -1744,7 +1847,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="32"/>
+            <LookupListIndex value="34"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="9" Format="3">
@@ -1757,6 +1860,7 @@
           <LookAheadCoverage index="0">
             <Glyph value="dvBHA"/>
             <Glyph value="dvBH_RA"/>
+            <Glyph value="dvLL_RA"/>
             <Glyph value="dvT_KA"/>
             <Glyph value="dvT_K_RA"/>
             <Glyph value="dvT_T_VA"/>
@@ -1776,7 +1880,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="33"/>
+            <LookupListIndex value="35"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="10" Format="3">
@@ -1799,7 +1903,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="34"/>
+            <LookupListIndex value="36"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="11" Format="3">
@@ -1820,7 +1924,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="35"/>
+            <LookupListIndex value="37"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="12" Format="3">
@@ -1836,7 +1940,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="36"/>
+            <LookupListIndex value="38"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="13" Format="3">
@@ -1865,7 +1969,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="37"/>
+            <LookupListIndex value="39"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="14" Format="3">
@@ -1886,7 +1990,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="38"/>
+            <LookupListIndex value="40"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="15" Format="3">
@@ -1920,7 +2024,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="39"/>
+            <LookupListIndex value="41"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="16" Format="3">
@@ -1983,7 +2087,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="40"/>
+            <LookupListIndex value="42"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="17" Format="3">
@@ -2014,7 +2118,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="41"/>
+            <LookupListIndex value="43"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="18" Format="3">
@@ -2052,7 +2156,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="42"/>
+            <LookupListIndex value="44"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="19" Format="3">
@@ -2080,7 +2184,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="43"/>
+            <LookupListIndex value="45"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="20" Format="3">
@@ -2108,7 +2212,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="44"/>
+            <LookupListIndex value="46"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="21" Format="3">
@@ -2134,7 +2238,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="45"/>
+            <LookupListIndex value="47"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="22" Format="3">
@@ -2167,7 +2271,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="46"/>
+            <LookupListIndex value="48"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="23" Format="3">
@@ -2229,7 +2333,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="47"/>
+            <LookupListIndex value="49"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="24" Format="3">
@@ -2271,7 +2375,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="48"/>
+            <LookupListIndex value="50"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="25" Format="3">
@@ -2288,7 +2392,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="49"/>
+            <LookupListIndex value="51"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="26" Format="3">
@@ -2305,7 +2409,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="50"/>
+            <LookupListIndex value="52"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="27" Format="3">
@@ -2324,7 +2428,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="51"/>
+            <LookupListIndex value="53"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="28" Format="3">
@@ -2355,7 +2459,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="52"/>
+            <LookupListIndex value="54"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="29" Format="3">
@@ -2375,7 +2479,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="53"/>
+            <LookupListIndex value="55"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="30" Format="3">
@@ -2393,7 +2497,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="54"/>
+            <LookupListIndex value="56"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="31" Format="3">
@@ -2418,7 +2522,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="55"/>
+            <LookupListIndex value="57"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="32" Format="3">
@@ -2439,7 +2543,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="56"/>
+            <LookupListIndex value="58"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="33" Format="3">
@@ -2455,7 +2559,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="57"/>
+            <LookupListIndex value="59"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="34" Format="3">
@@ -2472,7 +2576,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="58"/>
+            <LookupListIndex value="60"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="35" Format="3">
@@ -2493,7 +2597,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="59"/>
+            <LookupListIndex value="61"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="36" Format="3">
@@ -2511,7 +2615,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="60"/>
+            <LookupListIndex value="62"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="37" Format="3">
@@ -2527,7 +2631,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="61"/>
+            <LookupListIndex value="63"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="38" Format="3">
@@ -2543,7 +2647,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="62"/>
+            <LookupListIndex value="64"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="39" Format="3">
@@ -2559,7 +2663,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="63"/>
+            <LookupListIndex value="65"/>
           </SubstLookupRecord>
         </ChainContextSubst>
         <ChainContextSubst index="40" Format="3">
@@ -2575,7 +2679,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="64"/>
+            <LookupListIndex value="66"/>
           </SubstLookupRecord>
         </ChainContextSubst>
       </Lookup>
@@ -2592,6 +2696,8 @@
           <InputCoverage index="1">
             <Glyph value="dvmvR"/>
             <Glyph value="dvmvRR"/>
+            <Glyph value="dvmvL"/>
+            <Glyph value="dvmvLL"/>
           </InputCoverage>
           <!-- LookAheadGlyphCount=0 -->
           <!-- SubstCount=2 -->
@@ -2631,6 +2737,9 @@
             <Ligature components="dvAnusvara" glyph="dvmE_Anusvara"/>
             <Ligature components="dvReph" glyph="dvmE_Reph"/>
           </LigatureSet>
+          <LigatureSet glyph="dvmEcandra">
+            <Ligature components="dvAnusvara" glyph="dvmEcandra_Anusvara"/>
+          </LigatureSet>
           <LigatureSet glyph="dvmII">
             <Ligature components="dvReph,dvAnusvara" glyph="dvmII_Reph_Anusvara"/>
             <Ligature components="dvAnusvara" glyph="dvmII_Anusvara"/>
@@ -2640,6 +2749,9 @@
             <Ligature components="dvReph,dvAnusvara" glyph="dvmO_Reph_Anusvara"/>
             <Ligature components="dvAnusvara" glyph="dvmO_Anusvara"/>
             <Ligature components="dvReph" glyph="dvmO_Reph"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvmOcandra">
+            <Ligature components="dvAnusvara" glyph="dvmOcandra_Anusvara"/>
           </LigatureSet>
         </LigatureSubst>
       </Lookup>
@@ -2720,10 +2832,13 @@
             <Glyph value="dvBH_RA"/>
             <Glyph value="dvM_RA"/>
             <Glyph value="dvY_RA"/>
+            <Glyph value="dvL_RA"/>
             <Glyph value="dvV_RA"/>
+            <Glyph value="dvSS_RA"/>
             <Glyph value="dvSH_RA"/>
             <Glyph value="dvS_RA"/>
             <Glyph value="dvH_RA"/>
+            <Glyph value="dvLL_RA"/>
             <Glyph value="dvKx_RA"/>
             <Glyph value="dvKHx_RA"/>
             <Glyph value="dvGx_RA"/>
@@ -2841,12 +2956,14 @@
             <Glyph value="dvTT_VA"/>
             <Glyph value="dvTTH_TTHA"/>
             <Glyph value="dvTTH_YA"/>
+            <Glyph value="dvTTH_VA"/>
             <Glyph value="dvDD_DDA"/>
             <Glyph value="dvDD_DDHA"/>
             <Glyph value="dvDD_YA"/>
             <Glyph value="dvDD_VA"/>
             <Glyph value="dvDDH_DDHA"/>
             <Glyph value="dvDDH_YA"/>
+            <Glyph value="dvDDH_VA"/>
             <Glyph value="dvNN_TTA"/>
             <Glyph value="dvNN_TTHA"/>
             <Glyph value="dvNN_DDA"/>
@@ -3168,7 +3285,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="64"/>
+            <LookupListIndex value="66"/>
           </SubstLookupRecord>
         </ChainContextSubst>
       </Lookup>
@@ -3247,7 +3364,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="64"/>
+            <LookupListIndex value="66"/>
           </SubstLookupRecord>
         </ChainContextSubst>
       </Lookup>
@@ -3277,8 +3394,14 @@
           <LigatureSet glyph="dvHA">
             <Ligature components="dvVirama" glyph="dvH"/>
           </LigatureSet>
+          <LigatureSet glyph="dvH_RA">
+            <Ligature components="dvVirama" glyph="dvH_R"/>
+          </LigatureSet>
           <LigatureSet glyph="dvNGA">
             <Ligature components="dvVirama" glyph="dvNG"/>
+          </LigatureSet>
+          <LigatureSet glyph="dvNG_RA">
+            <Ligature components="dvVirama" glyph="dvNG_R"/>
           </LigatureSet>
           <LigatureSet glyph="dvRA">
             <Ligature components="dvVirama" glyph="dvR"/>
@@ -3325,6 +3448,22 @@
         </SingleSubst>
       </Lookup>
       <Lookup index="23">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="dvRA" out="dvvL"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="24">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="dvRA" out="dvvLL"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="25">
         <!-- LookupType=4 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3334,7 +3473,7 @@
           </LigatureSet>
         </LigatureSubst>
       </Lookup>
-      <Lookup index="24">
+      <Lookup index="26">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3342,7 +3481,7 @@
           <Substitution in="dvmI" out="dvmI.a01"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="25">
+      <Lookup index="27">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3350,7 +3489,7 @@
           <Substitution in="dvmI" out="dvmI.a02"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="26">
+      <Lookup index="28">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3358,7 +3497,7 @@
           <Substitution in="dvmI" out="dvmI.a03"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="27">
+      <Lookup index="29">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3366,7 +3505,7 @@
           <Substitution in="dvmI" out="dvmI.a04"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="28">
+      <Lookup index="30">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3374,7 +3513,7 @@
           <Substitution in="dvmI" out="dvmI.a05"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="29">
+      <Lookup index="31">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3382,7 +3521,7 @@
           <Substitution in="dvmI" out="dvmI.a06"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="30">
+      <Lookup index="32">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3390,7 +3529,7 @@
           <Substitution in="dvmI" out="dvmI.a07"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="31">
+      <Lookup index="33">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3398,7 +3537,7 @@
           <Substitution in="dvmI" out="dvmI.a08"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="32">
+      <Lookup index="34">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3406,7 +3545,7 @@
           <Substitution in="dvmI" out="dvmI.a09"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="33">
+      <Lookup index="35">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3414,7 +3553,7 @@
           <Substitution in="dvmI" out="dvmI.a10"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="34">
+      <Lookup index="36">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3422,7 +3561,7 @@
           <Substitution in="dvmI" out="dvmI.a11"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="35">
+      <Lookup index="37">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3430,7 +3569,7 @@
           <Substitution in="dvmI" out="dvmI.a12"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="36">
+      <Lookup index="38">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3438,7 +3577,7 @@
           <Substitution in="dvmI" out="dvmI.a13"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="37">
+      <Lookup index="39">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3446,7 +3585,7 @@
           <Substitution in="dvmI" out="dvmI.a14"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="38">
+      <Lookup index="40">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3454,7 +3593,7 @@
           <Substitution in="dvmI" out="dvmI.a15"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="39">
+      <Lookup index="41">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3462,7 +3601,7 @@
           <Substitution in="dvmI" out="dvmI.a16"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="40">
+      <Lookup index="42">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3470,7 +3609,7 @@
           <Substitution in="dvmI" out="dvmI.a17"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="41">
+      <Lookup index="43">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3478,7 +3617,7 @@
           <Substitution in="dvmI" out="dvmI.a18"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="42">
+      <Lookup index="44">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3486,7 +3625,7 @@
           <Substitution in="dvmI" out="dvmI.a19"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="43">
+      <Lookup index="45">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3494,7 +3633,7 @@
           <Substitution in="dvmI" out="dvmI.a20"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="44">
+      <Lookup index="46">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3502,7 +3641,7 @@
           <Substitution in="dvmI" out="dvmI.a21"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="45">
+      <Lookup index="47">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3510,7 +3649,7 @@
           <Substitution in="dvmI" out="dvmI.a22"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="46">
+      <Lookup index="48">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3518,7 +3657,7 @@
           <Substitution in="dvmI" out="dvmI.a23"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="47">
+      <Lookup index="49">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3526,7 +3665,7 @@
           <Substitution in="dvmI" out="dvmI.a24"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="48">
+      <Lookup index="50">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3534,7 +3673,7 @@
           <Substitution in="dvmI" out="dvmI.a25"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="49">
+      <Lookup index="51">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3542,7 +3681,7 @@
           <Substitution in="dvmI" out="dvmI.a26"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="50">
+      <Lookup index="52">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3550,7 +3689,7 @@
           <Substitution in="dvmI" out="dvmI.a27"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="51">
+      <Lookup index="53">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3558,7 +3697,7 @@
           <Substitution in="dvmI" out="dvmI.a28"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="52">
+      <Lookup index="54">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3566,7 +3705,7 @@
           <Substitution in="dvmI" out="dvmI.a29"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="53">
+      <Lookup index="55">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3574,7 +3713,7 @@
           <Substitution in="dvmI" out="dvmI.a30"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="54">
+      <Lookup index="56">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3582,7 +3721,7 @@
           <Substitution in="dvmI" out="dvmI.a31"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="55">
+      <Lookup index="57">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3590,7 +3729,7 @@
           <Substitution in="dvmI" out="dvmI.a32"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="56">
+      <Lookup index="58">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3598,7 +3737,7 @@
           <Substitution in="dvmI" out="dvmI.a33"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="57">
+      <Lookup index="59">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3606,7 +3745,7 @@
           <Substitution in="dvmI" out="dvmI.a34"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="58">
+      <Lookup index="60">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3614,7 +3753,7 @@
           <Substitution in="dvmI" out="dvmI.a35"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="59">
+      <Lookup index="61">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3622,7 +3761,7 @@
           <Substitution in="dvmI" out="dvmI.a36"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="60">
+      <Lookup index="62">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3630,7 +3769,7 @@
           <Substitution in="dvmI" out="dvmI.a37"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="61">
+      <Lookup index="63">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3638,7 +3777,7 @@
           <Substitution in="dvmI" out="dvmI.a38"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="62">
+      <Lookup index="64">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3646,7 +3785,7 @@
           <Substitution in="dvmI" out="dvmI.a39"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="63">
+      <Lookup index="65">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
@@ -3654,7 +3793,7 @@
           <Substitution in="dvmI" out="dvmI.a47"/>
         </SingleSubst>
       </Lookup>
-      <Lookup index="64">
+      <Lookup index="66">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->

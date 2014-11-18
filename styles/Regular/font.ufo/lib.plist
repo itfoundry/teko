@@ -126,7 +126,6 @@
 		<string>dvSH</string>
 		<string>dvSS</string>
 		<string>dvS</string>
-		<string>dvH</string>
 		<string>dvKx</string>
 		<string>dvKHx</string>
 		<string>dvGx</string>
@@ -916,7 +915,6 @@
 		<string>lacute</string>
 		<string>Lcommaaccent</string>
 		<string>lcommaaccent</string>
-		<string>Lcaron</string>
 		<string>lcaron</string>
 		<string>Lslash</string>
 		<string>lslash</string>
@@ -970,7 +968,6 @@
 		<string>Tcommaaccent</string>
 		<string>tcommaaccent</string>
 		<string>macronmod</string>
-		<string>pi</string>
 		<string>endash</string>
 		<string>emdash</string>
 		<string>quoteleft</string>
@@ -1007,6 +1004,37 @@
 		<string>dvmvRR</string>
 		<string>zerowidthspace</string>
 		<string>apostrophemod</string>
+		<string>radical</string>
+		<string>estimated</string>
+		<string>dvmvL</string>
+		<string>dvmvLL</string>
+		<string>dvH</string>
+		<string>rupee</string>
+		<string>dvL_RA</string>
+		<string>dvSS_RA</string>
+		<string>dvLL_RA</string>
+		<string>dvNG_R</string>
+		<string>dvCH_R</string>
+		<string>dvL_R</string>
+		<string>dvSH_R</string>
+		<string>dvSS_R</string>
+		<string>dvH_R</string>
+		<string>dvLL_R</string>
+		<string>dvTTH_VA</string>
+		<string>dvDDH_VA</string>
+		<string>dvmEcandra_Anusvara</string>
+		<string>dvmOcandra_Anusvara</string>
+		<string>onequarter</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
+		<string>Lcaron</string>
+		<string>pi</string>
+		<string>turkishlira</string>
+		<string>ruble</string>
+		<string>litre</string>
+		<string>partialdiff</string>
+		<string>Delta.math</string>
+		<string>summation</string>
 	</array>
 </dict>
 </plist>

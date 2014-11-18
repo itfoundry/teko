@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 00:02:56 2014
+# Created: Tue Nov 18 16:15:59 2014
 # PS Name: Teko-Light
 # MM Inst: None
 # exported from noApp
@@ -24,7 +24,6 @@ lookup MARK_BASE_abvm.bindu {
 	@bGC_dvT_KA_abvm.bindu = [dvT_KA dvEyelash_HA];
 	@bGC_dvU_abvm.bindu = [dvU dvUU];
 	@bGC_dvvL_abvm.bindu = [dvvL dvvLL];
-	@bGC_dvvR_abvm.bindu = [dvvR dvvRR];
 	pos base @bGC_dvC_CHA_abvm.bindu <anchor 588 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvDA_abvm.bindu <anchor 294 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvD_BA_abvm.bindu <anchor 326 622> mark @MC_abvm.bindu;
@@ -43,7 +42,6 @@ lookup MARK_BASE_abvm.bindu {
 	pos base @bGC_dvT_KA_abvm.bindu <anchor 462 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvU_abvm.bindu <anchor 269 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvvL_abvm.bindu <anchor 440 622> mark @MC_abvm.bindu;
-	pos base @bGC_dvvR_abvm.bindu <anchor 317 622> mark @MC_abvm.bindu;
 	pos base dvB_DA <anchor 491 622> mark @MC_abvm.bindu;
 	pos base dvCHA <anchor 381 622> mark @MC_abvm.bindu;
 	pos base dvD_BHA <anchor 423 622> mark @MC_abvm.bindu;
@@ -73,6 +71,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvTT_VA <anchor 333 622> mark @MC_abvm.bindu;
 	pos base dvT_K_RA <anchor 482 622> mark @MC_abvm.bindu;
 	pos base dvV_HA <anchor 485 622> mark @MC_abvm.bindu;
+	pos base dvvRR <anchor 317 622> mark @MC_abvm.bindu;
 } MARK_BASE_abvm.bindu;
 
 
@@ -94,7 +93,6 @@ lookup MARK_BASE_abvm.e {
 	@bGC_dvSS_TTA_abvm.e = [dvSS_TTA dvSS_TT_VA];
 	@bGC_dvT_KA_abvm.e = [dvT_KA dvEyelash_HA];
 	@bGC_dvvL_abvm.e = [dvvL dvvLL];
-	@bGC_dvvR_abvm.e = [dvvR dvvRR];
 	pos base @bGC_dvC_CHA_abvm.e <anchor 588 632> mark @MC_abvm.e;
 	pos base @bGC_dvDA_abvm.e <anchor 294 632> mark @MC_abvm.e;
 	pos base @bGC_dvD_BA_abvm.e <anchor 326 632> mark @MC_abvm.e;
@@ -112,7 +110,6 @@ lookup MARK_BASE_abvm.e {
 	pos base @bGC_dvSS_TTA_abvm.e <anchor 339 632> mark @MC_abvm.e;
 	pos base @bGC_dvT_KA_abvm.e <anchor 462 632> mark @MC_abvm.e;
 	pos base @bGC_dvvL_abvm.e <anchor 440 632> mark @MC_abvm.e;
-	pos base @bGC_dvvR_abvm.e <anchor 317 632> mark @MC_abvm.e;
 	pos base dvB_DA <anchor 491 632> mark @MC_abvm.e;
 	pos base dvCHA <anchor 381 632> mark @MC_abvm.e;
 	pos base dvD_BHA <anchor 423 632> mark @MC_abvm.e;
@@ -142,6 +139,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvTT_VA <anchor 333 632> mark @MC_abvm.e;
 	pos base dvT_K_RA <anchor 482 632> mark @MC_abvm.e;
 	pos base dvV_HA <anchor 485 632> mark @MC_abvm.e;
+	pos base dvvRR <anchor 317 632> mark @MC_abvm.e;
 } MARK_BASE_abvm.e;
 
 

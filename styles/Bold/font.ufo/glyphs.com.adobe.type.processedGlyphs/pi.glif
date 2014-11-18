@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph format="1" name="pi">
   <advance width="570" />
-  <unicode hex="03C0" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="560" y="499" />
-      <point type="line" x="68" y="499" />
+      <point type="line" x="10" y="499" />
+      <point type="line" x="10" y="384" />
+      <point type="line" x="68" y="384" />
       <point type="line" x="68" y="147" />
       <point x="68" y="132" />
       <point x="60" y="125" />

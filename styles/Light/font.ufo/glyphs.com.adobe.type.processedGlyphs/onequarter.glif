@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="onequarter">
+  <advance width="464" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="96" y="280" />
+      <point type="line" x="96" y="622" />
+      <point type="line" x="11" y="622" />
+      <point type="line" x="11" y="580" />
+      <point type="line" x="48" y="580" />
+      <point type="line" x="48" y="280" />
+    </contour>
+    <contour>
+      <point type="line" x="270" y="622" />
+      <point type="line" x="62" y="0" />
+      <point type="line" x="130" y="0" />
+      <point type="line" x="338" y="622" />
+    </contour>
+    <contour>
+      <point type="line" x="425" y="109" />
+      <point type="line" x="397" y="109" />
+      <point type="line" x="397" y="172" />
+      <point type="line" x="345" y="172" />
+      <point type="line" x="345" y="109" />
+      <point type="line" x="292" y="109" />
+      <point type="line" x="378" y="346" />
+      <point type="line" x="325" y="346" />
+      <point type="line" x="236" y="102" />
+      <point type="line" x="236" y="68" />
+      <point type="line" x="345" y="68" />
+      <point type="line" x="345" y="0" />
+      <point type="line" x="397" y="0" />
+      <point type="line" x="397" y="68" />
+      <point type="line" x="425" y="68" />
+    </contour>
+  </outline>
+</glyph>

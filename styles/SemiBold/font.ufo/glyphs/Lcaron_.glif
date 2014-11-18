@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="1">
   <advance width="371"/>
-  <unicode hex="013D"/>
   <outline>
-    <component base="caron" xOffset="-120" yOffset="143"/>
-    <component base="L"/>
+    <contour>
+      <point x="223" y="636" type="line"/>
+      <point x="223" y="439" type="line"/>
+      <point x="259" y="439" type="line"/>
+      <point x="323" y="570" type="line"/>
+      <point x="323" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="636" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="370" y="105" type="line"/>
+      <point x="97" y="105" type="line"/>
+    </contour>
   </outline>
 </glyph>

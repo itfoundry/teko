@@ -38,6 +38,8 @@
 	<string>Dcaron_.glif</string>
 	<key>Dcroat</key>
 	<string>Dcroat_.glif</string>
+	<key>Delta.math</key>
+	<string>Delta_.math.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>Eacute</key>
@@ -338,6 +340,8 @@
 	<string>dvDDH__R_.glif</string>
 	<key>dvDDH_RA</key>
 	<string>dvDDH__RA_.glif</string>
+	<key>dvDDH_VA</key>
+	<string>dvDDH__VA_.glif</string>
 	<key>dvDDH_YA</key>
 	<string>dvDDH__YA_.glif</string>
 	<key>dvDDHxA</key>
@@ -498,6 +502,8 @@
 	<string>dvH__NA_.glif</string>
 	<key>dvH_NNA</key>
 	<string>dvH__NNA_.glif</string>
+	<key>dvH_R</key>
+	<string>dvH__R_.glif</string>
 	<key>dvH_RA</key>
 	<string>dvH__RA_.glif</string>
 	<key>dvH_VA</key>
@@ -714,6 +720,10 @@
 	<string>dvLA_.glif</string>
 	<key>dvLLA</key>
 	<string>dvLLA_.glif</string>
+	<key>dvLL_R</key>
+	<string>dvLL__R_.glif</string>
+	<key>dvLL_RA</key>
+	<string>dvLL__RA_.glif</string>
 	<key>dvLL_YA</key>
 	<string>dvLL__YA_.glif</string>
 	<key>dvL_BA</key>
@@ -752,6 +762,8 @@
 	<string>dvL__PA_.glif</string>
 	<key>dvL_PHA</key>
 	<string>dvL__PHA_.glif</string>
+	<key>dvL_RA</key>
+	<string>dvL__RA_.glif</string>
 	<key>dvL_SA</key>
 	<string>dvL__SA_.glif</string>
 	<key>dvL_TA</key>
@@ -824,6 +836,8 @@
 	<string>dvNG_.glif</string>
 	<key>dvNGA</key>
 	<string>dvNGA_.glif</string>
+	<key>dvNG_R</key>
+	<string>dvNG__R_.glif</string>
 	<key>dvNG_RA</key>
 	<string>dvNG__RA_.glif</string>
 	<key>dvNN</key>
@@ -1064,6 +1078,8 @@
 	<string>dvSH__MA_.glif</string>
 	<key>dvSH_NA</key>
 	<string>dvSH__NA_.glif</string>
+	<key>dvSH_R</key>
+	<string>dvSH__R_.glif</string>
 	<key>dvSH_RA</key>
 	<string>dvSH__RA_.glif</string>
 	<key>dvSH_SHA</key>
@@ -1098,6 +1114,10 @@
 	<string>dvSS__PHA_.glif</string>
 	<key>dvSS_P_RA</key>
 	<string>dvSS__P__RA_.glif</string>
+	<key>dvSS_R</key>
+	<string>dvSS__R_.glif</string>
+	<key>dvSS_RA</key>
+	<string>dvSS__RA_.glif</string>
 	<key>dvSS_SSA</key>
 	<string>dvSS__SSA_.glif</string>
 	<key>dvSS_TTA</key>
@@ -1202,6 +1222,8 @@
 	<string>dvTTH__RA_.glif</string>
 	<key>dvTTH_TTHA</key>
 	<string>dvTTH__TTHA_.glif</string>
+	<key>dvTTH_VA</key>
+	<string>dvTTH__VA_.glif</string>
 	<key>dvTTH_YA</key>
 	<string>dvTTH__YA_.glif</string>
 	<key>dvTT_R</key>
@@ -1344,12 +1366,14 @@
 	<string>dvmO__Reph__Anusvara_.glif</string>
 	<key>dvmOcandra</key>
 	<string>dvmOcandra_.glif</string>
+	<key>dvmOcandra_Anusvara</key>
+	<string>dvmOcandra__Anusvara_.glif</string>
+	<key>dvmvL</key>
+	<string>dvmvL_.glif</string>
 	<key>dvvL</key>
 	<string>dvvL_.glif</string>
 	<key>dvvLL</key>
 	<string>dvvLL_.glif</string>
-	<key>dvvR</key>
-	<string>dvvR_.glif</string>
 	<key>dvvRR</key>
 	<string>dvvRR_.glif</string>
 	<key>e</key>
@@ -1372,6 +1396,8 @@
 	<string>emacron.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
+	<key>estimated</key>
+	<string>estimated.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
 	<key>exclamdown</key>
@@ -1406,6 +1432,8 @@
 	<string>k.glif</string>
 	<key>kcommaaccent</key>
 	<string>kcommaaccent.glif</string>
+	<key>litre</key>
+	<string>litre.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
 	<key>lozenge</key>
@@ -1454,6 +1482,10 @@
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>onehalf</key>
+	<string>onehalf.glif</string>
+	<key>onequarter</key>
+	<string>onequarter.glif</string>
 	<key>onesuperior</key>
 	<string>onesuperior.glif</string>
 	<key>ordfeminine</key>
@@ -1468,6 +1500,8 @@
 	<string>p.glif</string>
 	<key>paragraph</key>
 	<string>paragraph.glif</string>
+	<key>partialdiff</key>
+	<string>partialdiff.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
 	<key>plus</key>
@@ -1486,10 +1520,16 @@
 	<string>r.glif</string>
 	<key>racute</key>
 	<string>racute.glif</string>
+	<key>radical</key>
+	<string>radical.glif</string>
 	<key>rcaron</key>
 	<string>rcaron.glif</string>
 	<key>rcommaaccent</key>
 	<string>rcommaaccent.glif</string>
+	<key>ruble</key>
+	<string>ruble.glif</string>
+	<key>rupee</key>
+	<string>rupee.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>seven</key>
@@ -1498,6 +1538,8 @@
 	<string>six.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
+	<key>summation</key>
+	<string>summation.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>tcaron</key>
@@ -1508,8 +1550,12 @@
 	<string>tcommaaccent.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
+	<key>threequarters</key>
+	<string>threequarters.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>turkishlira</key>
+	<string>turkishlira.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
