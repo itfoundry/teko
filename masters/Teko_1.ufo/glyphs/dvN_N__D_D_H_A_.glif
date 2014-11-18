@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvNN_DDHA" format="1">
-  <advance width="993"/>
-  <outline>
-    <component base="dvNN"/>
-    <component base="dvDDHA" xOffset="476"/>
-  </outline>
-</glyph>

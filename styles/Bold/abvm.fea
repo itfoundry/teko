@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 16:17:04 2014
+# Created: Tue Nov 18 17:40:30 2014
 # PS Name: Teko-Bold
 # MM Inst: None
 # exported from noApp
@@ -74,6 +74,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvTT_VA <anchor 537 642> mark @MC_abvm.bindu;
 	pos base dvT_K_RA <anchor 698 642> mark @MC_abvm.bindu;
 	pos base dvV_HA <anchor 694 642> mark @MC_abvm.bindu;
+	pos base dvvR <anchor 514 642> mark @MC_abvm.bindu;
 	pos base dvvRR <anchor 539 642> mark @MC_abvm.bindu;
 } MARK_BASE_abvm.bindu;
 
@@ -145,6 +146,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvTT_VA <anchor 537 652> mark @MC_abvm.e;
 	pos base dvT_K_RA <anchor 698 652> mark @MC_abvm.e;
 	pos base dvV_HA <anchor 694 652> mark @MC_abvm.e;
+	pos base dvvR <anchor 514 652> mark @MC_abvm.e;
 	pos base dvvRR <anchor 539 652> mark @MC_abvm.e;
 } MARK_BASE_abvm.e;
 

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvS_BA" format="1">
-  <advance width="1033"/>
-  <outline>
-    <component base="dvS"/>
-    <component base="dvBA" xOffset="456"/>
-  </outline>
-</glyph>

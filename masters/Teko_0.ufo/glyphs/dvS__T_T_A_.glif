@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvS_TTA" format="1">
-  <advance width="674"/>
-  <outline>
-    <component base="dvS"/>
-    <component base="dvTTA" xOffset="340"/>
-  </outline>
-</glyph>

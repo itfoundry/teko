@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 16:15:59 2014
+# Created: Tue Nov 18 17:39:24 2014
 # PS Name: Teko-Light
 # MM Inst: None
 # exported from noApp
@@ -30,5 +30,6 @@ markClass dvVirama <anchor -55 -20> @MC_blwm.virama;
 markClass dvmAI_Reph_Anusvara <anchor -56 632> @MC_abvm.e;
 markClass dvmU <anchor -124 0> @MC_blwm.u;
 markClass dvmUU <anchor -55 -10> @MC_blwm.uu;
-markClass dvmvL <anchor -123 0> @MC_blwm.u;
+markClass dvmvL <anchor -112 0> @MC_blwm.vr;
+markClass dvmvLL <anchor -115 0> @MC_blwm.vr;
 

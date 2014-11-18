@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 16:16:32 2014
+# Created: Tue Nov 18 17:39:58 2014
 # PS Name: Teko-Medium
 # MM Inst: None
 # exported from noApp
@@ -74,6 +74,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvTT_TTHA <anchor 371 631> mark @MC_abvm.bindu;
 	pos base dvTT_VA <anchor 423 631> mark @MC_abvm.bindu;
 	pos base dvT_KA <anchor 567 631> mark @MC_abvm.bindu;
+	pos base dvvR <anchor 404 631> mark @MC_abvm.bindu;
 	pos base dvvRR <anchor 415 631> mark @MC_abvm.bindu;
 } MARK_BASE_abvm.bindu;
 
@@ -147,6 +148,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvTT_TTHA <anchor 371 641> mark @MC_abvm.e;
 	pos base dvTT_VA <anchor 423 641> mark @MC_abvm.e;
 	pos base dvT_KA <anchor 567 641> mark @MC_abvm.e;
+	pos base dvvR <anchor 404 641> mark @MC_abvm.e;
 	pos base dvvRR <anchor 415 641> mark @MC_abvm.e;
 } MARK_BASE_abvm.e;
 

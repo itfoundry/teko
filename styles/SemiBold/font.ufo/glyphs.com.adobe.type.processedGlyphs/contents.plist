@@ -300,6 +300,8 @@
 	<string>dvCH_.glif</string>
 	<key>dvCHA</key>
 	<string>dvCHA_.glif</string>
+	<key>dvCH_R</key>
+	<string>dvCH__R_.glif</string>
 	<key>dvCH_RA</key>
 	<string>dvCH__RA_.glif</string>
 	<key>dvCH_R_YA</key>
@@ -1376,6 +1378,8 @@
 	<string>dvvL_.glif</string>
 	<key>dvvLL</key>
 	<string>dvvLL_.glif</string>
+	<key>dvvR</key>
+	<string>dvvR_.glif</string>
 	<key>dvvRR</key>
 	<string>dvvRR_.glif</string>
 	<key>e</key>

@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 16:16:15 2014
+# Created: Tue Nov 18 17:39:41 2014
 # PS Name: Teko-Regular
 # MM Inst: None
 # exported from noApp
@@ -76,6 +76,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvT_KA <anchor 512 626> mark @MC_abvm.bindu;
 	pos base dvT_K_RA <anchor 527 626> mark @MC_abvm.bindu;
 	pos base dvV_HA <anchor 529 626> mark @MC_abvm.bindu;
+	pos base dvvR <anchor 358 626> mark @MC_abvm.bindu;
 } MARK_BASE_abvm.bindu;
 
 
@@ -148,6 +149,7 @@ lookup MARK_BASE_abvm.e {
 	pos base dvT_KA <anchor 512 636> mark @MC_abvm.e;
 	pos base dvT_K_RA <anchor 527 636> mark @MC_abvm.e;
 	pos base dvV_HA <anchor 529 636> mark @MC_abvm.e;
+	pos base dvvR <anchor 358 636> mark @MC_abvm.e;
 } MARK_BASE_abvm.e;
 
 

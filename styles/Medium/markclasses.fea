@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 16:16:32 2014
+# Created: Tue Nov 18 17:39:58 2014
 # PS Name: Teko-Medium
 # MM Inst: None
 # exported from noApp
@@ -34,5 +34,6 @@ markClass dvmEcandra <anchor -106 631> @MC_topmiddle;
 markClass dvmEcandra <anchor -53 631> @MC_abvm.bindu;
 markClass dvmU <anchor -162 0> @MC_blwm.u;
 markClass dvmUU <anchor -45 -10> @MC_blwm.uu;
-markClass dvmvL <anchor -161 0> @MC_blwm.u;
+markClass dvmvL <anchor -127 0> @MC_blwm.vr;
+markClass dvmvLL <anchor -122 0> @MC_blwm.vr;
 
