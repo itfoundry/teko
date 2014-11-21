@@ -4,18 +4,26 @@
   <unicode hex="2260" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="359" y="423" />
+      <point name="hintSet0000" type="line" x="483" y="362" />
+      <point type="line" x="483" y="470" />
+      <point type="line" x="384" y="470" />
       <point type="line" x="421" y="540" />
       <point type="line" x="329" y="540" />
-      <point type="line" x="267" y="423" />
-      <point type="line" x="33" y="423" />
-      <point type="line" x="33" y="214" />
-      <point type="line" x="157" y="214" />
+      <point type="line" x="292" y="470" />
+      <point type="line" x="33" y="470" />
+      <point type="line" x="33" y="362" />
+      <point type="line" x="235" y="362" />
+      <point type="line" x="189" y="274" />
+      <point type="line" x="33" y="274" />
+      <point type="line" x="33" y="167" />
+      <point type="line" x="132" y="167" />
       <point type="line" x="94" y="95" />
       <point type="line" x="187" y="95" />
-      <point type="line" x="250" y="214" />
-      <point type="line" x="483" y="214" />
-      <point type="line" x="483" y="423" />
+      <point type="line" x="225" y="167" />
+      <point type="line" x="483" y="167" />
+      <point type="line" x="483" y="274" />
+      <point type="line" x="281" y="274" />
+      <point type="line" x="327" y="362" />
     </contour>
   </outline>
 </glyph>

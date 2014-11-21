@@ -3,29 +3,7 @@
   <advance width="866" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="43" y="91" />
-      <point x="43" y="30" />
-      <point x="71" y="0" />
-      <point type="curve" x="149" y="0" />
-      <point type="line" x="208" y="0" />
-      <point type="line" x="208" y="84" />
-      <point type="line" x="184" y="84" />
-      <point x="163" y="84" />
-      <point x="156" y="89" />
-      <point type="curve" x="156" y="111" />
-      <point type="line" x="156" y="370" />
-      <point x="156" y="392" />
-      <point x="163" y="397" />
-      <point type="curve" x="184" y="397" />
-      <point type="line" x="284" y="397" />
-      <point type="line" x="284" y="479" />
-      <point type="line" x="149" y="479" />
-      <point x="71" y="479" />
-      <point x="43" y="450" />
-      <point type="curve" x="43" y="388" />
-    </contour>
-    <contour>
-      <point type="line" x="514" y="190" />
+      <point name="hintSet0000" type="line" x="514" y="190" />
       <point x="514" y="167" />
       <point x="506" y="161" />
       <point type="curve" x="485" y="161" />
@@ -42,6 +20,26 @@
       <point type="line" x="-20" y="631" />
       <point type="line" x="-20" y="548" />
       <point type="line" x="308" y="548" />
+      <point type="line" x="308" y="479" />
+      <point type="line" x="149" y="479" />
+      <point x="71" y="479" />
+      <point x="43" y="450" />
+      <point type="curve" x="43" y="388" />
+      <point type="line" x="43" y="91" />
+      <point x="43" y="30" />
+      <point x="71" y="0" />
+      <point type="curve" x="149" y="0" />
+      <point type="line" x="208" y="0" />
+      <point type="line" x="208" y="84" />
+      <point type="line" x="184" y="84" />
+      <point x="163" y="84" />
+      <point x="156" y="89" />
+      <point type="curve" x="156" y="111" />
+      <point type="line" x="156" y="370" />
+      <point x="156" y="392" />
+      <point x="163" y="397" />
+      <point type="curve" x="184" y="397" />
+      <point type="line" x="308" y="397" />
       <point type="line" x="308" y="178" />
       <point x="308" y="108" />
       <point x="343" y="78" />
