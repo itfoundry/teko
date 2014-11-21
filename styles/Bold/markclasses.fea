@@ -1,4 +1,4 @@
-# Created: Fri Nov 21 13:36:22 2014
+# Created: Fri Nov 21 16:45:36 2014
 # PS Name: Teko-Bold
 # MM Inst: None
 # exported from noApp
@@ -15,13 +15,13 @@ markClass @mGC_blwm.vr_n40_n30 <anchor -40 -30> @MC_blwm.vr;
 markClass @mGC_topmiddle_n122_642 <anchor -122 642> @MC_topmiddle;
 markClass @mGC_topright_n44_642 <anchor -44 642> @MC_topright;
 markClass dvAnusvara <anchor -59 642> @MC_abvm.bindu;
-markClass dvAnusvara.amI <anchor 250 658> @MC_abvm.i;
+markClass dvAnusvara.amI <anchor 0 658> @MC_abvm.i;
 markClass dvReph <anchor -37 642> @MC_abvm.bindu;
 markClass dvReph <anchor -37 642> @MC_topright;
-markClass dvReph.amI <anchor 250 552> @MC_abvm.i;
+markClass dvReph.amI <anchor 0 552> @MC_abvm.i;
 markClass dvReph_Anusvara <anchor -40 642> @MC_abvm.bindu;
 markClass dvReph_Anusvara <anchor -40 642> @MC_topright;
-markClass dvReph_Anusvara.amI <anchor 250 632> @MC_abvm.i;
+markClass dvReph_Anusvara.amI <anchor 0 632> @MC_abvm.i;
 markClass dvVirama <anchor -40 -20> @MC_blwm.virama;
 markClass dvmAI <anchor -45 642> @MC_topright;
 markClass dvmAI <anchor -47 652> @MC_abvm.e;

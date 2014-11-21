@@ -3,7 +3,7 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="229" y="552" type="move" name="_abvm.i"/>
+      <point x="0" y="552" type="move" name="_abvm.i"/>
     </contour>
     <component base="dvReph" xOffset="42"/>
   </outline>
