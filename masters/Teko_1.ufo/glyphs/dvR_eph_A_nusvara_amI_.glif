@@ -3,7 +3,7 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="250" y="632" type="move" name="_abvm.i"/>
+      <point x="0" y="632" type="move" name="_abvm.i"/>
     </contour>
     <component base="dvReph_Anusvara" xOffset="40"/>
   </outline>
